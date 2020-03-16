@@ -18,6 +18,6 @@ End Of File.**
 ## how to compile it
 
 1. git clone https://github.com/aeddaqqa/get_next_line.git
-2. make -C ./libft
-3. gcc main.c get_next_line.c libft/libft.a -o get_next_line
-4. ./get_next_line libft/Makefile
+2. make -C ./Libft
+3. gcc main.c get_next_line.c Libft/libft.a -o get_next_line
+4. ./get_next_line Libft/Makefile
