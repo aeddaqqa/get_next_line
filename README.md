@@ -7,8 +7,6 @@ ending with a new[line](#line), read from a file descriptor.  [1337 school (42 n
  + malloc
  + free
 
-### line 
->is a succession of characters that end with ’
 \n
 ’ (ascii code
 0x0a
